@@ -1,1 +1,1 @@
-# School-time-table-management-system-in-Android-stuidio
+# School-time-table-management-system-in-Android-stuidio.
